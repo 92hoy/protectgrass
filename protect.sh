@@ -1,8 +1,8 @@
 #!/bin/bash
 
-date >> /home/vagrant/project/protectgrass/history.log
+date >> /home/vagrant/proejct/protectgrass/history.log
 
-cd /home/vagrant/project/protectgrass/
+cd /home/vagrant/proejct/protectgrass/
 
 /usr/bin/git add .
 
